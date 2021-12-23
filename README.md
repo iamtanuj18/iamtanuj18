@@ -9,7 +9,7 @@
 
 - 👨‍💻 **[Visit Portfolio](https://itstanuj.com/)**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **iamtanuj18"yahoo.com** or **[Visit Portfolio](https://itstanuj.com/)**
+- 📫 How to reach me **iamtanuj18@yahoo.com** or **[Visit Portfolio](https://itstanuj.com/)**
 
 ## 🚀 Languages and Tools:
 
