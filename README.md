@@ -7,24 +7,16 @@
 
 ## 🙋‍♂️ About Me
 
--  **[Visit Portfolio](https://itstanuj.com/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
+- 👨‍💻 **[Visit Portfolio](https://itstanuj.com/)**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-
-- 📫 How to reach me **subham.raoniar@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- 📫 How to reach me **iamtanuj18"yahoo.com** or **[Visit Portfolio](https://itstanuj.com/)**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://flutter.dev/?gclid=EAIaIQobChMI0I6U7ez59AIVKpNmAh1XewUQEAAYASAAEgI35fD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://logowik.com/content/uploads/images/flutter5786.jpg"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
