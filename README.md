@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://itstanuj.com" target="_blank">Tanuj</a></h1>
-<h3 align="center"> Co-Founder and Business Manager at <a href="https://devrush.tech" target="_blank">DevRush InfoTech</a></h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <a href="https://itstanuj.com" target="_blank" rel="noopener noreferrer">Tanuj</a></h1>
+<h3 align="center"> Co-Founder and Business Manager at <a href="https://devrush.tech" target="_blank" rel="noopener noreferrer">DevRush InfoTech</a></h3>
 <h3 align="center">also a passionate Full Stack Developer from India.</h3>
 
 
