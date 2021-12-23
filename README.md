@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/iamtanuj18/github-readme-activity-graph"><img alt="Tanuj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamtanuj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/iamtanuj18/github-readme-activity-graph"><img alt="Tanuj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamtanuj18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -68,8 +68,8 @@
 
 </p>
 
-## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=iamtanuj18">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/iamtanuj18?tab=followers"><img src="https://img.shields.io/github/followers/iamtanuj18?label=Followers&style=social" alt="GitHub Badge"></a>
