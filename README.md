@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- � **[Visit Portfolio](https://itstanuj.com/)**
+-  **[Visit Portfolio](https://itstanuj.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
