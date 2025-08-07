@@ -11,7 +11,7 @@
 
 - 👨‍💻 **[Visit Portfolio](https://itstanuj.com/)**
 - 👯 I’m looking to collaborate on **Open-Source Projects**
-- 📫 Reach me at **iamtanuj18@yahoo.com**
+
 
 ## 🚀 Languages&nbsp;and&nbsp;Tools
 
