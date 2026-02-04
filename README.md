@@ -7,7 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Master of IT @ Monash University
+- 🎓 Master of IT @ Monash University, Melbourne
+- 🎓 B.Tech in CSE @ NIT Jaipur, India
 - 💻 I build full-stack web applications
 - ☁️ Currently exploring cloud architecture & AI integration
 - 📫 Reach me at **iamtanuj04@gmail.com**
@@ -29,19 +30,3 @@
   <a href="https://redis.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
 </p>
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/iamtanuj18">
-  <img alt="Tanuj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iamtanuj18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
-<a href="https://github.com/iamtanuj18">
-  <img alt="Tanuj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtanuj18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/iamtanuj18?tab=followers">
-  <img src="https://img.shields.io/github/followers/iamtanuj18?label=Followers&style=social" alt="GitHub followers"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=iamtanuj18" alt="Profile views"/>
